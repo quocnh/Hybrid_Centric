@@ -10,3 +10,7 @@ A hybrid model-centric and data-centric is proposed to build a robust system for
 
 ![viewer](https://github.com/quocnh/LSTM/blob/main/Screen%20Shot%202022-07-12%20at%2011.40.25%20PM.png)
 
+Please cite our work at 
+```
+
+```
