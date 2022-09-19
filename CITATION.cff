@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "Please cite our paper if it helps your research. You can describe us in your paper like this: "We develop our experiments based on Hybrid-centric approach [1]". "
 authors:
-  - family-names: Druskat
-    given-names: Stephan
-    orcid: https://orcid.org/0000-0003-4925-7248
-title: "My Research Software"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2021-08-11
+  - family-names: Nguyen
+    given-names: Quoc H.
+    orcid: 
+title: "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis"
+version: 1.0.0
+doi: 
+date-released: 09-20-2022
