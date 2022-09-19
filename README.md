@@ -13,10 +13,9 @@ A hybrid model-centric and data-centric is proposed to build a robust system for
 ## Citation
 ```
 @article{Zhang2021FederatedLF,
-  title={Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis)},
+  title={Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis},
   author={Quoc H. Nguyen, Chau Le, Chuan Pham, Minh N. H. Nguyen, Tien-Dung Nguyen, Trung Quoc Le},
   journal={},
   year={2022}
-}
 }
 ```
